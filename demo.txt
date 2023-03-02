@@ -1,0 +1,4 @@
+Hi
+git branch-it will show avalible branches
+git add filename- this command is used for move files in staging area
+
