@@ -1,0 +1,2 @@
+git branch branchname - create new branch
+git log --oneline - display commit ids in one line
