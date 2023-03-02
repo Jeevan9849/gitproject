@@ -1,0 +1,9 @@
+file permisions
+encrypty
+decrypt
+gpg -c filename
+gpg -d filename
+tar
+tar.gz
+tar.bz
+
